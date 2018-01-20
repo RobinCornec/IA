@@ -1,0 +1,10 @@
+pere(pierre,marie).
+pere(pierre,anne).
+pere(jean,jeannette).
+pere(marcel,jean).
+pere(marcel,pierre).
+mere(sophie,jean).
+mere(sophie,pierre).
+mere(monique,marie).
+mere(sonia,anne).
+mere(odette,jeannette).
